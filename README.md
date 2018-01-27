@@ -18,5 +18,5 @@ For wearable sensor the most basic use of module will be following;
 * configure other necessary parameters
 * once connection is established, use module in Transparent UART mode
 
-Necessary commands to setup proper operation of module as described above can be found in [RN4870 User Guide] (http://ww1.microchip.com/downloads/en/DeviceDoc/50002466B.pdf). Table below summarizes the most basic commands.
+Necessary commands to setup proper operation of module as described above can be found in [RN4870 User Guide](http://ww1.microchip.com/downloads/en/DeviceDoc/50002466B.pdf). Table below summarizes the most basic commands.
 
