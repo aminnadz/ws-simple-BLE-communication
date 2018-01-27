@@ -2,7 +2,7 @@
 
 This is simple serial passthrough program to enable communication between PC (USB) and BLE (Serial2).
 
->**IMPORTANT! -- In order for this program to work the MCU has to be setup as described in Bootloader & Setup [readme](https://github.com/inovatink/wearable-sensor-hardware/tree/master/Bootloader%20%26%20Setup) of wearable-sensor-hardware repo.
+>**IMPORTANT! -- In order for this program to work the MCU has to be setup as described in Bootloader & Setup [readme](https://github.com/inovatink/wearable-sensor-hardware/tree/master/Bootloader%20%26%20Setup) of wearable-sensor-hardware repo.**
 
 ## BLE Module Commands
 
