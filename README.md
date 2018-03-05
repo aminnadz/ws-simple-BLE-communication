@@ -37,5 +37,7 @@ Necessary commands to setup proper operation of module as described above can be
 |K,1			      | Command K is used to disconnect the active BTLE link. 
 |R,1			      | Reboot device
 |D				      | Used to display critical information of module over UART.
+|SW,<pin>,<fun>	| Used to configure pin functions.
+
 
 Feel free to test these commands (and other from [User Guide](http://ww1.microchip.com/downloads/en/DeviceDoc/50002466B.pdf)) from your PC using serial passthrough Arduino program from this repo.
